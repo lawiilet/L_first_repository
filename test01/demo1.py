@@ -1,2 +1,5 @@
 ayoyoyyoyoyoyo
-num1=5
+<<<<<<< HEAD
+
+num1=10
+
